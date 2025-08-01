@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 This release named by @molxyz and [@ctrlbreak](https://twitter.com/ctrlbreak).
 
 ### Added
-
+ 
 - JSON API: New command `check` checks the validity of a JSON API call without running it.
 - JSON API: `getinfo` now returns `num_peers` `num_pending_channels`,
   `num_active_channels` and `num_inactive_channels` fields.
